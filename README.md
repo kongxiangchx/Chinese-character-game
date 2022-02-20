@@ -44,43 +44,43 @@
 
 - 注册
 
-![图片1](pic\1.jpg)
+<img src="pic\图片1.jpg" alt="图片1" style="zoom:25%;" />
 
 - 登录
 
-![图片2](pic\图片2.jpg)
+<img src="pic\图片2.jpg" alt="图片2" style="zoom:25%;" />
 
 - 主界面
 
-![图片3](pic\图片3.jpg)
+<img src="pic\图片3.jpg" alt="图片3" style="zoom:25%;" />
 
 - 诗词问答
 
-![图片4](pic\图片4.jpg)
+<img src="pic\图片4.jpg" alt="图片4" style="zoom:25%;" />
 
-![图片5](pic\图片5.jpg)
+<img src="pic\图片5.jpg" alt="图片5" style="zoom:25%;" />
 
 - 成语消消看
 
-![图片6](pic\图片6.jpg)
+<img src="pic\图片6.jpg" alt="图片6" style="zoom:25%;" />
 
-![图片7](pic\图片7.jpg)
+<img src="pic\图片7.jpg" alt="图片7" style="zoom:25%;" />
 
 - 规则解说
 
-![图片8](pic\图片8.jpg)
+<img src="pic\图片8.jpg" alt="图片8" style="zoom:25%;" />
 
 - 排行榜
 
-![图片9](pic\图片9.jpg)
+<img src="pic\图片9.jpg" alt="图片9" style="zoom:25%;" />
 
-![图片10](pic\图片10.jpg)
+<img src="pic\图片10.jpg" alt="图片10" style="zoom:25%;" />
 
-![图片11](pic\图片11.jpg)
+<img src="pic\图片11.jpg" alt="图片11" style="zoom:25%;" />
 
-![图片12](pic\图片12.jpg)
+<img src="pic\图片12.jpg" alt="图片12" style="zoom:25%;" />
 
 - 个人信息
 
-![图片13](pic\图片13.jpg)
+<img src="pic\图片13.jpg" alt="图片13" style="zoom:25%;" />
 
