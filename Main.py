@@ -16,7 +16,6 @@ from window.game_rank import *
 from window.per_info import *
 from send_data import *
 
-
 class Register(QMainWindow, Ui_register_window):
     def __init__(self, parent=None):
         super(Register, self).__init__(parent)
@@ -468,6 +467,8 @@ class PerInfo(QMainWindow, Ui_per_info):
 
 if __name__ == '__main__':
     user = ''
+    # 高分辨率屏幕自适应
+    QtCore.QCoreApplication.setAttribute(QtCore.Qt.AA_EnableHighDpiScaling)
     app = QApplication(sys.argv)
     myWin1 = Register()
     myWin1.show()

@@ -33,6 +33,13 @@
 - 用户（账号，密码，昵称，性别，诗词成绩，成语成绩）
 - 名句（名句id，上句，下句，诗词作者，诗词名）
 - 成语（成语id，成语）
+- ==**具体可见chinese.sql**==
+
+## 包安装
+- pyqt5安装：
+pip install pyqt5 -i https://pypi.douban.com/simple
+- pyqt5-designer安装：
+pip install pyqt5-tools -i https://pypi.douban.com/simple
 
 ## 项目运行
 

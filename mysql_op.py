@@ -1,4 +1,4 @@
-import MySQLdb
+import pymysql
 import random
 import json
 
@@ -11,7 +11,7 @@ class User_op:
         self.port = 3306
 
     def connect(self):
-        self.conn = MySQLdb.connect(
+        self.conn = pymysql.connect(
             host=self.host, user=self.user, passwd=self.passwd, port=self.port, charset='utf8')
         self.conn.select_db('Chinese')
         self.cur = self.conn.cursor()

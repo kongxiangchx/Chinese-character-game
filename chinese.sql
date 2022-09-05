@@ -22,5 +22,5 @@ idiom_id int,
 idiom_text varchar(20),
 primary key(idiom_id)
 );
-load data local infile "d:/python-project/python大作业/数据采集/成语.txt" into table idiom fields terminated by ',' lines terminated by '\r\n';
-load data local infile "d:/python-project/python大作业/数据采集/诗词2.txt" into table sentence fields terminated by ',' lines terminated by '\r\n';
+load data local infile "./数据采集/成语.txt" into table idiom fields terminated by ',' lines terminated by '\r\n';
+load data local infile "./数据采集/诗词2.txt" into table sentence fields terminated by ',' lines terminated by '\r\n';

@@ -100,7 +100,7 @@ if __name__ == "__main__":
     while True:
         conn, addr = s.accept()
         recv = json.loads(conn.recv(1024).decode())
-        # print(json.dumps(recv))
+        print(json.dumps(recv))
         user1 = User(conn)
         if recv['type'] == 'register':
             user1.register(recv)
